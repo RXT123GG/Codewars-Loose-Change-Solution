@@ -1,6 +1,7 @@
 #Codewars "Loose Change!" solution.
 # Defines a function that takes a string of change-inputs, seperates them into a list, sorts them by type and adds to a counter
 # then returns a formatted output in $0.00 format as a string
+# https://www.codewars.com/kata/57e1857d333d8e0f76002169/solutions/python 
 
 
 def change_count(change):
